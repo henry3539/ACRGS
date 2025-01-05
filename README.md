@@ -13,6 +13,6 @@ This software repository contains the implementation of A novel adaptive cuboid 
 
 
 
-Part of the core code and preprocessing code has been uploaded, and all code will be uploaded publicly when the paper has been accepted.
+Part of the core code has been uploaded, but the full code will be uploaded after the paper has been accepted
 
 Please contact me (caoyuheng88@bjfu.edu) if you have any questions!
