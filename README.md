@@ -1,13 +1,7 @@
 # ACRGS
 This software repository contains the implementation of A novel adaptive cuboid regional growth algorithm for trunk-branch segmentation of fruit trees point cloud. The whole process includes point cloud preprocessing, adaptive rectangular region growth segmentation, and trunk and branch evaluation index methods.
 
-# Workflow
 
-# Requirements
-
-# Configuration
-
-# Usage
 # Statement
 This study directly contributes to the Digital Earth concept by transforming geo-referenced 3D point cloud data into actionable information that enhances precision agriculture and smart orchard management. The proposed adaptive cuboid regional growth algorithm not only improves the accuracy and efficiency of trunk-branch segmentation in diverse fruit tree species but also supports the development of geo-data-intensive science and discovery. By providing a comprehensive evaluation framework and publicly sharing the dataset and codebase, this research promotes the open dissemination and interoperability of digital resources, aligning with the journal's vision of fostering collaborative and transparent digital earth ecosystems. Furthermore, by addressing challenges related to sustainable agriculture, climate resilience, and food security, the study advances the Digital Earth initiative's goals of improving societal conditions and supporting sustainable development.
 
